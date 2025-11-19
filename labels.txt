@@ -1,0 +1,7 @@
+0 Table
+1 Chair
+2 Sofa
+3 Television
+4 Bed
+5 Shelf
+6 Clock
